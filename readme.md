@@ -1,6 +1,6 @@
-## Auto mklinking/ config/data files with .minecraft folder.
+# Auto mklinking config/data files with .minecraft folder.
 
-# Instructions:
+### Instructions:
 Download a script to modpack folder and run it or edit it for sync more folders.
 ```sh
 mkdir installer
