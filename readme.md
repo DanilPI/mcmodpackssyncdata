@@ -1,16 +1,11 @@
 # Auto mklinking config/data files with .minecraft folder.
 
 ### Instructions:
-Download a script to modpack folder and run it or edit it for sync more folders.
+Download and install links in modpack folder.
 ```sh
 git clone https://github.com/DanilPI/mcmodpackssyncdata/
 cd mcmodpackssyncdata
-```
-
-Open CMD (Open modpack directory in CMD with `cd`)
-Type:
-```bat
-git clone https://github.com/DanilPI/mcmodpackssyncdata/ :: For downloading a folder with script
-cd mcmodpackssyncdata
 ./windows.bat
 ```
+For editing:
+Just open `notepad.exe` and edit a script (add folders for sync)
