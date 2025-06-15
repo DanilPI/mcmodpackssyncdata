@@ -2,10 +2,10 @@
 
 ### Instructions:
 Download and install links in modpack folder.
-```sh
+```bat
 git clone https://github.com/DanilPI/mcmodpackssyncdata/
 cd mcmodpackssyncdata
-./windows.bat
+./windows_run.bat
 ```
 For editing:
 Just open `notepad.exe` and edit a script (add folders for sync)
