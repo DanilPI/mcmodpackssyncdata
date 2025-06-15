@@ -7,9 +7,10 @@ git clone https://github.com/DanilPI/mcmodpackssyncdata/
 cd mcmodpackssyncdata
 ```
 
-Open CMD (`Win + R`, type `cmd` and enter or search in system and open it.)
+Open CMD (Open modpack directory in CMD with `cd`)
 Type:
 ```bat
+git clone https://github.com/DanilPI/mcmodpackssyncdata/ :: For downloading a folder with script
 cd mcmodpackssyncdata
 ./windows.bat
 ```
